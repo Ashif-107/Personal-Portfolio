@@ -381,3 +381,10 @@ span{
         width: 50vw;
     }
 }
+@media(max-width: 360px){
+    .home-img img,
+    .about-img img{
+        height: 43vh;
+        width: 65vw;
+    }
+}
